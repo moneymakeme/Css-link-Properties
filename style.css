@@ -1,0 +1,74 @@
+body{
+    margin-top: 50px;
+    /*The body inside all tag are space cration on our website top 50px 
+    margin: this is the space create our website body outerlook*/
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-family: serif;
+    /*The css on our anger tag (a):
+     text-decoration: none;this are using on our anger tag below line remove 
+     because of normaly our a tag have this line so just we want that line remove
+      use this css property
+    color: white;this is use on our text property
+    font-size: 22px;this is increase our text on all anger tag (a) useges 
+    font-family: serif;it's a our text look like these serif type 
+    serif:this style of look like our text sharp curved design on our website needs just use it.
+    */
+}
+.Readmorebtn1{
+    background-color: aqua;
+    padding: 10px 5px;
+    border-radius: 12px;
+    border:  brown solid 2px;
+    /*
+    background-color: aqua;This using our button background color
+    padding: 10px 5px;This using our button inside space creation
+    border-radius: 12px;This using our button box edge of border look design
+    border:  brown solid 2px;This using our button  color line on edges applying uses
+
+    And we alredy know the same css property on below css code any new i'm explain that 
+    one of the css lines
+    */
+}
+.Readmorebtn1:hover{
+    color: #000;
+    border:  red solid 2px;
+    background-color: yellowgreen
+    /*hover: this effect on use our website on anybody move over using this property usig tag
+    right now then all are change to before button property and now the property looks 
+    it's most using on our website look on attractive looks that made this css property */
+}
+
+.Readmorebtn2{
+    background-color: green;
+    padding: 10px 5px;
+    border:  brown solid 2px;
+}
+.Readmorebtn2:hover{
+    color: #111;
+    border:  black solid 2px;
+    background-color: rgb(109, 50, 205);
+}
+.btn3{
+    color: black;
+    padding: 10px;
+    border-radius: 12px;
+    border: black solid 2px;
+}
+.btn3:hover{
+    border: green solid 2px;
+    background-color: aquamarine;
+    border-radius: 0px;
+}
+
+
+/*
+Disclimer!!:I am also learn the css so any one have the dout just feel free to ask me i try my level best for yours!!!
+
+AnyWay Happy Learning And Don'f Forget Education Make Brilliant EveryBody, so be learn something your own interst!!!
+
+See You Soon!!!  AND  Keep up the great work and happy coding! 🌟📚
+*/
